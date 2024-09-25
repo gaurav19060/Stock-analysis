@@ -25,15 +25,7 @@ the weights of LSTM
 - [TensorFlow](https://www.tensorflow.org/install/pip)
 - [Rapid API Key](https://rapidapi.com/search/yahoo%20finance)
 
-## How to get started
 
-- Clone the repository
-
-```bash
-git clone https://github.com/AbhijithGanesh/StockSage.git
-```
-
-- Set up your environment:
 
 ### Refer the [.env.example](.env.example)
 
@@ -94,10 +86,6 @@ uvicorn app:app
 - Containerization:
   - Docker
 
-## License
-
-This project is licensed under the [GPL](.LICENSE). Feel free to re-use it😉
 
 ## Sample Visualization
-![image](https://github.com/AbhijithGanesh/StockSage/assets/67182544/d73bd837-49f9-46e0-b6f6-c0bb1f6bb8b7)
-
+![alt text](image.png)
